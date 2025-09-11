@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi Bro, I'm Rofi Fadlurrahman 👋
+
+
+![Header](img/github-header-2.png)
+
+
+
 
 <!--
 **RofiFadlurrahman/RofiFadlurrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on *Universitas Gunadarma*🏫
+- 🌱 I’m currently learning [**Javascript**], Laravel FrameWork(https://laravel.com)👨‍💻👨‍💻
