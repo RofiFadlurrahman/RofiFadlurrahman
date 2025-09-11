@@ -1,8 +1,7 @@
 ## Hi Bro, I'm Rofi Fadlurrahman 👋
 
 
-![Header](img/github-header-2.png)
-
+ ![alt text](image.png)
 
 
 
