@@ -39,3 +39,17 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RofiFadlurrahman&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<h2 alignn="left">Play games With Me</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RofiFadlurrahman/RofiFadlurrahman/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RofiFadlurrahman/RofiFadlurrahman/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RofiFadlurrahman/RofiFadlurrahman/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/RofiFadlurrahman/RofiFadlurrahman/output/snake.svg" alt="Snake animation" />
+
+###
